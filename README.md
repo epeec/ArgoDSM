@@ -8,15 +8,16 @@ programming model.
 ## EPEEC Initial Prototype
 
 New features are being developed for ArgoDSM to enable enhanced support for the OmpSs@ArgoDSM programming model.
-A release is published for the *Initial Prototype* point in development:  
-https://github.com/pekemark/argodsm/releases/tag/epeec-initial-prototype
+A tag is published for the *Initial Prototype* point in development:  
+https://github.com/pekemark/argodsm/tree/epeec-initial-prototype
 
-To use, clone with the following commands and follow further instructions in the repository or download the source code of the release.
+To retrieve and check out the Initial prototype using Git, use following commands:
 ```
 git clone https://github.com/pekemark/argodsm.git
 cd argodsm
 git checkout epeec-initial-prototype
 ```
+Further instructions on usage can be found in the repository's [README.md](https://github.com/pekemark/argodsm/blob/epeec-initial-prototype/README.md).
 
 
 ## EPEEC Development
