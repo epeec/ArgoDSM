@@ -30,3 +30,9 @@ https://github.com/pekemark/argodsm/tree/nanos6
 
 The stable version of ArgoDSM is maintained by Eta Scale:  
 https://github.com/etascale/argodsm
+
+
+## Licence
+
+ArgoDSM is released under an open source licence issued by Eta Scale.
+Licence terms can be found in the file [LICENCE](https://github.com/etascale/argodsm/blob/master/LICENSE) in the sable version of the repository.
