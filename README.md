@@ -11,23 +11,25 @@ The stable version of ArgoDSM is maintained by Eta Scale:
 https://github.com/etascale/argodsm
 
 
-## EPEEC Prototypes
+## EPEEC Releases
 
-The *Initial* and *Intermediate* prototypes of ArgoDSM for the corresponding
-OmpSs-2@ArgoDSM software deliverables can be found in a separate repository.
-Tags were published for the *Initial Prototype* and the *Intermediate Prototype*
-points in development:  
+The *Initial* and *Intermediate* prototypes as well as the *Final Release*
+version of ArgoDSM for the corresponding OmpSs-2@ArgoDSM software deliverables
+can be found in separate repositories. Tags were published for the
+*Initial Prototype*, *Intermediate Prototype* and *Final Release* points in
+development:  
 https://github.com/pekemark/argodsm/tree/epeec-initial-prototype  
-https://github.com/pekemark/argodsm/tree/epeec-intermediate-prototype
+https://github.com/pekemark/argodsm/tree/epeec-intermediate-prototype  
+https://github.com/lundgren87/argodsm/tree/epeec-final-release
 
-To retrieve and check out the Intermediate Prototype using Git, use following
-commands (analogous for the Initial Prototype):
+To retrieve and check out the Final Release using Git, use following
+commands (analogous for the Prototypes):
 ```
-git clone https://github.com/pekemark/argodsm.git
+git clone https://github.com/lundgren87/argodsm.git
 cd argodsm
-git checkout epeec-intermediate-prototype
+git checkout epeec-final-release
 ```
-Further instructions on usage can be found in the repository's [README.md](https://github.com/pekemark/argodsm/blob/epeec-initial-prototype/README.md).
+Further instructions on usage can be found in the repository's [README.md](https://github.com/lundgren87/argodsm/blob/epeec-final-release/README.md).
 
 
 
